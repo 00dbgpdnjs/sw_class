@@ -1,3 +1,2 @@
-1
-dfwef
-3
+def hello() :
+    print("hello")
