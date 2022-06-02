@@ -27,6 +27,8 @@
 
 - shift + p : CPU 사용률 내림차순
 - shift + m : 메모리 사용률 내림차순
+
+
   <img width="524" alt="3top_m" src="https://user-images.githubusercontent.com/81615868/171553986-2610ae59-a2b0-4e10-bfd9-3329e3110fe7.png">
 
 
