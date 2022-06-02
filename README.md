@@ -152,3 +152,5 @@ pocess status의 약자이다.
     a 매크로 recording 시작 -> 입력모드 -> "TODO" 입력 -> 일반모드 -> recording 종료 -> 매크로 중 a 매크로 실행되어 현재 라인을 다음 줄로 밀고 TODO가 입력됨
     
       <img width="217" alt="vim1" src="https://user-images.githubusercontent.com/81615868/171560546-22715d01-aa4e-4640-b1d5-90394e6a5736.png">
+      
+      <img width="221" alt="vim2" src="https://user-images.githubusercontent.com/81615868/171560674-d5936425-88cc-4ab9-b5bf-c9c6ecdd14c7.png">
